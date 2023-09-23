@@ -1,0 +1,84 @@
+{
+  "loan_apps_in_kenya": [
+    {
+      "app_name": "Sotiwa",
+      "description": "Sotiwa is a mobile lending app in Kenya that provides short-term loans to users for various financial needs."
+    },
+    {
+      "app_name": "Pezesha",
+      "description": "Pezesha is a peer-to-peer micro-lending platform in Kenya that connects borrowers with individual lenders."
+    },
+    {
+      "app_name": "Soko Loan",
+      "description": "Soko Loan is a digital lending platform that offers loans to Kenyan users with competitive interest rates."
+    },
+    {
+      "app_name": "StashFin",
+      "description": "StashFin is a digital lending app that provides loans to Kenyan borrowers with flexible repayment terms."
+    },
+    {
+      "app_name": "FlashPesa",
+      "description": "FlashPesa is a mobile lending app in Kenya that offers instant loans to users for emergencies."
+    },
+    {
+      "app_name": "KopaKash",
+      "description": "KopaKash is a mobile loan app that provides quick loans to Kenyan borrowers."
+    },
+    {
+      "app_name": "Jazika",
+      "description": "Jazika is a mobile lending app in Kenya that offers personal loans with a simple application process."
+    },
+    {
+      "app_name": "Afri Kash",
+      "description": "Afri Kash is a digital lending platform that provides quick loans to Kenyan users."
+    },
+    {
+      "app_name": "EazzyLoan",
+      "description": "EazzyLoan is a mobile loan app offered by Equity Bank that provides loans to Kenyan customers."
+    },
+    {
+      "app_name": "Iloan",
+      "description": "Iloan is a digital lending app in Kenya that offers loans to users with flexible terms and conditions."
+    },
+    {
+      "app_name": "Neyborly Loans",
+      "description": "Neyborly Loans is a peer-to-peer lending platform that connects borrowers and lenders in Kenya."
+    },
+    {
+      "app_name": "Zawadi Loans",
+      "description": "Zawadi Loans is a mobile lending app that offers quick loans to Kenyan users with no collateral required."
+    },
+    {
+      "app_name": "Saida Chap",
+      "description": "Saida Chap is a mobile lending app that provides instant loans to Kenyan users for various financial needs."
+    },
+    {
+      "app_name": "Utunzi Loan",
+      "description": "Utunzi Loan is a digital lending platform in Kenya that offers loans with competitive interest rates."
+    },
+    {
+      "app_name": "Senti Wazi",
+      "description": "Senti Wazi is a digital lending app that provides quick loans to Kenyan borrowers with a straightforward application process."
+    },
+    {
+      "app_name": "CashNow",
+      "description": "CashNow is a mobile lending app in Kenya that offers fast and convenient loans to users."
+    },
+    {
+      "app_name": "Saida Plus",
+      "description": "Saida Plus is an upgraded version of Saida, offering larger loan amounts to Kenyan users."
+    },
+    {
+      "app_name": "Jijenge Credit",
+      "description": "Jijenge Credit is a microfinance institution in Kenya that provides loans to individuals and businesses."
+    },
+    {
+      "app_name": "Stawika Loan",
+      "description": "Stawika Loan is a mobile lending app that offers loans to Kenyan users based on their financial behavior and mobile data."
+    },
+    {
+      "app_name": "PesaPata Plus",
+      "description": "PesaPata Plus is an upgraded version of PesaPata, offering larger loan amounts to Kenyan users."
+    }
+  ]
+}
